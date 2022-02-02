@@ -1,0 +1,10 @@
+###
+POST http://localhost:20001/custom
+Content-Type: application/json
+
+{
+  "message": "This is the 23rd of December"
+}
+
+
+###
